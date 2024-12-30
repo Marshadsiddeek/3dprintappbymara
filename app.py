@@ -52,3 +52,5 @@ if st.button("Calculate"):
 # Footer message
 st.markdown("---")
 st.markdown("**Thank you for choosing Z2H Design Studio!**")
+st.markdown("---")
+st.markdown("**Designed by Z2H Team**")
